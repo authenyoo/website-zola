@@ -38,5 +38,5 @@ menu_items = [
     {name = "services", url = "$BASE_URL/pages/services"},
 
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/authenyoo/website", newtab = true},
+    {name = "github", url = "https://github.com/authenyoo/website-zola", newtab = true},
 ]
