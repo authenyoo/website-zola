@@ -5,9 +5,7 @@ sort_by = "date"
 
 # welcome
 
-♡ Bᴜʟʟʏɪɴɢ? Tʜɪɴᴋ ʏᴏᴜ'ʀᴇ sᴏ ᴄᴏᴏʟ? -Tʜᴇ ɢɪʀʟ ʏᴏᴜ ᴊᴜsᴛ ᴄᴀʟʟᴇᴅ ғᴀᴛ?... Sʜᴇ ɪs Spongebob Vlone. -Tʜᴇ ɢɪRʟ ʏᴏᴜ ᴊᴜsᴛ ᴄᴀʟʟᴇᴅ ᴜɢʟʏ?... Sʜᴇ Spongebob Vlone -Tʜᴇ ʙᴏʏ ʏᴏᴜ ᴛRɪPpEd? Spongebob Vlone. -Sᴇᴇ ᴛʜᴀᴛ ᴍᴀɴ ᴡɪᴛʜ ᴛʜᴇ ᴜɢʟʏ sᴄᴀʀs?... Hᴇ ғᴏᴜɢʜᴛ ғᴏʀ Spongebob Vlone. -Tʜᴀᴛ ɢᴜʏ ʏOᴜ ᴊᴜsᴛ ᴍᴀᴅᴇ ғᴜɴ ᴏғ ғᴏʀ ᴄʀʏɪɴɢ?... Hɪs ᴍᴏᴛʜᴇʀ ɪs Spongebob Vlone. -Tʜᴀᴛ ᴋɪᴅ ʏᴏᴜ ᴊᴜsᴛ ᴍᴀᴅᴇ ғᴜɴ ᴏғ ғᴏʀ ʙᴇɪɴɢ ʙᴀʟᴅ?...Hᴇ ʜᴀs Spongebob Vlone. ʏᴏᴜʀ sᴛᴀᴛᴜs ɪғ ʏᴏᴜʀ Spongebob Vlone. I ʙᴇᴛ ᴍᴏsᴛ ᴏғ ʏᴏᴜ ᴡᴏɴᴛ ʀᴇ-ᴘᴏsᴛ, ʙᴜᴛ I'ᴍ sᴜʀᴇ ᴛʜᴇ ᴘᴇᴏᴘʟᴇ ᴡɪᴛʜ Spongebob Vlone ᴡɪʟʟ
-
-enjoy your time in my contribution to the world wide web
+welcome to authenyo.xyz . my name is iris. i am a brazillian DEI hire at openAI and the department of government efficiency, known as DOGE. this website is chinese state-affliated media. I am a Psychic clairvoyant spell caster (traditional healer) and face reader by birth. I get indications in mind and senses about things and people. I am perfect in every way. i love spongebob vlone. 
 <marquee style="margin: 30px">
           <a href="/pages/freemoney.html">click here for free money</a>
         </marquee>
