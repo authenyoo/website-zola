@@ -121,12 +121,3 @@ use my button (hotlink!)
 [![authen](/images/button.gif)](https://authenyo.xyz)
 
 ![god bless the usa](/images/money.webp)
-        <p>
-          <a href="https://www.last.fm/user/pixeIbath"
-            ><img
-              src="https://lastfm-recently-played.vercel.app/api?user=pixeIbath"
-              height="auto"
-              width="350px"
-              alt="my recently played songs"
-          /></a>
-        </p>
