@@ -2,18 +2,39 @@
 title = "services"
 path = "/pages/services"
 +++
-i host a few services on this domain and heres a list of them
+List of services that I host on my little VPS.
 
-minecraft: mc.authenyo.xyz latest
+🔒 - Available on request/invite only/approval only
 
-[iceshrimp.NET (fediverse/social media)](https://iceshrimp.authenyo.xyz)
 
-[activitypub relay](https://relay.authenyo.xyz)
 
-[4get (search engine)](https://4get.authenyo.xyz)
 
-[authenyo.xyz tor mirror](http://authen7lfz4b3bb7dlt57vphk47tz7vpkz2o6htjg6gy734zjxfobsqd.onion)
 
-[snikket (xmpp) (invite-only, ask)](https://xmpp.authenyo.xyz)
+## Current
 
-[irischan 2 (vichan)](https://chan.authenyo.xyz)
+- [Minecraft](https://mc.authenyo.xyz)
+
+IP is mc.authenyo.xyz, 1.21.4 currently. Running using Paper. Offline mode on because I love poor people.
+
+- [Iceshrimp.NET](https://iceshrimp.authenyo.xyz) 🔒
+
+Beta microblogging software using ActivityPub.
+
+- [ActivityPub relay](https://relay.authenyo.xyz)
+
+Fediverse relay for instance admins.
+
+- [4get](https://4get.authenyo.xyz)
+
+Lightweight privacy-focused metasearch engine that doesn't suck. 
+
+
+- [XMPP (Jabber)](https://xmpp.authenyo.xyz) 🔒
+
+Instant messaging hosted using Snikket. 95% compliant.
+
+<a href='https://compliance.conversations.im/server/xmpp.authenyo.xyz'><img src='https://compliance.conversations.im/badge/xmpp.authenyo.xyz'></a>
+
+- [Vichan](https://chan.authenyo.xyz)
+
+My little imageboard using vichan for whatever you want to talk about. Second version of it because the first one died.
