@@ -37,6 +37,7 @@ menu_items = [
     {name = "links", url = "/pages/links"},
     {name = "services", url = "/pages/services"},
     {name = "webrings", url = "/pages/webrings"},
+    {name = "guestbook", url = "https://authen.atabook.org/"},
 ]
 # One of: blue, green, orange, pink, red.
 # Defaults to blue.
