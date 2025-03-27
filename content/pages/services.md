@@ -14,7 +14,7 @@ List of services that I host on my little VPS.
 
 - [Minecraft](https://mc.authenyo.xyz)
 
-IP is mc.authenyo.xyz, 1.21.4 currently. Running using Paper. Offline mode on because I love poor people.
+IP is mc.authenyo.xyz, 1.21.4 currently. Running using [Paper](https://papermc.io). Cracked accounts allowed because I love poor people.
 
 - [Iceshrimp.NET](https://iceshrimp.authenyo.xyz) 🔒
 
