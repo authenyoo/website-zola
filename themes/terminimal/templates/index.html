@@ -46,7 +46,7 @@
                     {% set logo_link = config.base_url %}
                 {% endif -%}
                 <a href="{{ logo_link | safe }}" style="text-decoration: none;">
-                    <div class="logo">
+                <div class="logo">
                       {% block logo_content %}
                         {%- if config.extra.logo_text %}
                             {{ config.extra.logo_text }}
