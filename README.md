@@ -8,4 +8,4 @@ this is not hosted anywhere so you have to
 im not gonna spoon feed you this [heres a page from their docs](https://www.getzola.org/documentation/getting-started/installation/) FUCK YOU
 
 ### USE IT
-do `zola serve` and go to http://127.0.0.1:1111 
+do `zola serve` and go to http://127.0.0.1:1111 or just BUILD IT using `zola build`
