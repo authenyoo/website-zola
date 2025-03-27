@@ -28,14 +28,14 @@ menu_items = [
 
     # tags should only be enabled if you have "tags" taxonomy
     # see documentation below for more details
-    {name = "tags", url = "$BASE_URL/tags"},
-    {name = "archive", url = "$BASE_URL/pages/archive"},
-    {name = "about me", url = "$BASE_URL/pages/aboutme"},
-    {name = "gallery", url = "$BASE_URL/pages/gallery"},
-    {name = "donate", url = "$BASE_URL/pages/givememoney"},
-    {name = "links", url = "$BASE_URL/pages/links"},
-    {name = "services", url = "$BASE_URL/pages/services"},
-    {name = "webrings", url = "$BASE_URL/pages/webrings"},
+    {name = "tags", url = "/tags"},
+    {name = "archive", url = "/pages/archive"},
+    {name = "about me", url = "/pages/aboutme"},
+    {name = "gallery", url = "/pages/gallery"},
+    {name = "donate", url = "/pages/givememoney"},
+    {name = "links", url = "/pages/links"},
+    {name = "services", url = "/pages/services"},
+    {name = "webrings", url = "/pages/webrings"},
 ]
 # One of: blue, green, orange, pink, red.
 # Defaults to blue.
