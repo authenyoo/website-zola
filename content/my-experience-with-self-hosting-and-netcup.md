@@ -1,7 +1,7 @@
 +++
 title = "my experience with self-hosting and netcup"
 date = 2025-02-15
-
+path = "/blog/posts/15-02-2025-my-experience-with-self-hosting-and-netcup"
 [taxonomies]
 tags = ["selfhosting"]
 +++
