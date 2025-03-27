@@ -8,6 +8,10 @@
         <lastmod>2025-02-15</lastmod>
     </url>
     <url>
+        <loc>/blog/posts/27-03-2025-i-rewrote-the-site/</loc>
+        <lastmod>2025-03-27</lastmod>
+    </url>
+    <url>
         <loc>/page/1/</loc>
     </url>
     <url>
@@ -42,6 +46,9 @@
     </url>
     <url>
         <loc>/tags/</loc>
+    </url>
+    <url>
+        <loc>/tags/meta/</loc>
     </url>
     <url>
         <loc>/tags/selfhosting/</loc>
