@@ -2,7 +2,6 @@
 paginate_by = 2
 sort_by = "date"
 +++
-
 # welcome
 
 welcome to authenyo.xyz . my name is iris. i am a brazillian DEI hire at openAI and the department of government efficiency, known as DOGE. this website is chinese state-affliated media. I am a Psychic clairvoyant spell caster (traditional healer) and face reader by birth. I get indications in mind and senses about things and people. I am perfect in every way. i love spongebob vlone. 

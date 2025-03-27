@@ -35,12 +35,13 @@ menu_items = [
     {name = "donate", url = "$BASE_URL/pages/givememoney"},
     {name = "links", url = "$BASE_URL/pages/links"},
     {name = "services", url = "$BASE_URL/pages/services"},
+    {name = "webrings", url = "$BASE_URL/pages/webrings"},
 ]
 # One of: blue, green, orange, pink, red.
 # Defaults to blue.
 # Append -light for light themes, e.g. blue-light
 # Or append -auto, e.g. blue-auto
-accent_color = "blue"
+accent_color = "red"
 
 # One of: blue, dark, green, orange, pink, red, light, auto
 # Enabling dark background will also modify primary font color to be darker.
