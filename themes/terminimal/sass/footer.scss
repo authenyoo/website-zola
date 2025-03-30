@@ -12,7 +12,7 @@
     margin: 0;
     width: 760px;
     max-width: 100%;
-
+ 
     @media (max-width: $tablet-max-width) {
       flex-direction: column;
     }
@@ -28,6 +28,7 @@
     align-items: center;
     font-size: 1rem;
     color: var(--light-color-secondary);
+    margin: auto;
 
     &--user {
       margin: auto;

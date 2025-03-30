@@ -35,6 +35,6 @@ Instant messaging hosted using Snikket. 95% compliant.
 
 <a href='https://compliance.conversations.im/server/xmpp.authenyo.xyz'><img src='https://compliance.conversations.im/badge/xmpp.authenyo.xyz'></a>
 
-- [Vichan](https://chan.authenyo.xyz)
+- [Irischan](https://chan.authenyo.xyz)
 
 My little imageboard using vichan for whatever you want to talk about. Second version of it because the first one died.
