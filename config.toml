@@ -4,6 +4,13 @@ base_url = "/"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
+generate_feeds = true
+
+# Use `rss.xml` for RSS feeds and `atom.xml` for ATOM.
+feed_filenames = ["rss.xml", "atom.xml"]
+
+description = "i want to make a trillion dollars one day"
+
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
