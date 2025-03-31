@@ -19,7 +19,7 @@ theme = "terminimal"
 taxonomies = [
     {name = "tags"},
 ]
-
+author = "iris"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -45,6 +45,8 @@ menu_items = [
     {name = "services", url = "/pages/services"},
     {name = "webrings", url = "/pages/webrings"},
     {name = "guestbook", url = "https://authen.atabook.org/"},
+    {name = "rss", url = "/rss.xml"},
+    {name = "atom", url = "/atom.xml"},
 ]
 # One of: blue, green, orange, pink, red.
 # Defaults to blue.
@@ -59,3 +61,5 @@ background_color = "red"
 logo_text = "authenyo.xyz"
 favicon = "/images/favicon.png"
 favicon_mimetype = "image/png"
+author = "iris"
+copyright_html = "<span><a href=https://github.com/authenyoo/website-zola>source code</a></span>"
