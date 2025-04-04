@@ -1,6 +1,7 @@
 +++
 paginate_by = 2
 sort_by = "date"
+title = "iris's personal website"
 +++
 # welcome
 

@@ -1,5 +1,6 @@
 # The URL the site will be built for
 base_url = "/"
+title = "authen's website"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -63,3 +64,4 @@ favicon = "/images/favicon.png"
 favicon_mimetype = "image/png"
 author = "iris"
 copyright_html = "<span><a href=https://github.com/authenyoo/website-zola>source code</a></span>"
+page_titles = "combined"
