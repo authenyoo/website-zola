@@ -76,6 +76,10 @@ a {
   color: inherit;
 }
 
+a:has(img) {
+  text-decoration: none;
+}
+
 img {
   display: block;
   max-width: 100%;
