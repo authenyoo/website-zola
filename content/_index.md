@@ -67,7 +67,7 @@ welcome to authenyo.xyz . my name is iris (she/her). i am a brazillian DEI hire 
           <img src="/images/veast.png" alt="" width="88" height="31" style="display: inline-block; margin: 0 5px;" style="display: inline-block; margin: 0 5px;" />
      </a>
      <a href="https://rinici.de">
-          <img src="https://rinici.de/button.png" alt="" width="88" height="31" style="display: inline-block; margin: 0 5px;" style="display: inline-block; margin: 0 5px;" />
+          <img src="/images/rini.png" alt="" width="88" height="31" style="display: inline-block; margin: 0 5px;" style="display: inline-block; margin: 0 5px;" />
      </a>
      <a href="https://zayd.fsky.io">
           <img src="/images/zayd.png" alt="" width="88" height="31" style="display: inline-block; margin: 0 5px;" />
@@ -79,10 +79,10 @@ welcome to authenyo.xyz . my name is iris (she/her). i am a brazillian DEI hire 
           <img src="/images/soulseek.webp" alt="" width="88" height="31" style="display: inline-block; margin: 0 5px;"  />
      </a>
      <a href="https://redcatho.de">
-          <img src="https://redcatho.de/buttons/red.png" alt="the text 'red is purple' on a purple background" width="88" height="31" style="display: inline-block; margin: 0 5px;" />
+          <img src="/images/red.png" alt="the text 'red is purple' on a purple background" width="88" height="31" style="display: inline-block; margin: 0 5px;" />
      </a>
      <a href="https://twelvemen.neocities.org">
-          <img src="https://twelvemen.neocities.org/12men.gif" alt="" width="88" height="31" style="display: inline-block; margin: 0 5px;" style="display: inline-block; margin: 0 5px;" />
+          <img src="/images/12men.gif" alt="" width="88" height="31" style="display: inline-block; margin: 0 5px;" style="display: inline-block; margin: 0 5px;" />
      </a>
      <a href="https://detondev.com">
           <img src="/images/detondev.gif" alt="" width="88" height="31" style="display: inline-block; margin: 0 5px;" style="display: inline-block; margin: 0 5px;" />
