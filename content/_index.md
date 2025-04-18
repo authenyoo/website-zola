@@ -5,7 +5,7 @@ title = "iris's personal website"
 +++
 # welcome
 
-welcome to authenyo.xyz . my name is iris (she/her). i am a brazillian trans DEI hire at openAI and the department of government efficiency, known as DOGE. this website is chinese state-affliated media. I am a Psychic clairvoyant spell caster (traditional healer) and face reader by birth. I get indications in mind and senses about things and people. I am perfect in every way. i love spongebob vlone. 
+welcome to authenyo.xyz . my name is iris (she/her). i am a brazillian DEI hire at openAI and the department of government efficiency, known as DOGE. this website is chinese state-affliated media. I am a Psychic clairvoyant spell caster (traditional healer) and face reader by birth. I get indications in mind and senses about things and people. I am perfect in every way. i love spongebob vlone. 
 <marquee style="margin: 30px">
           <a href="/pages/freemoney.html">click here for free money</a>
         </marquee>
