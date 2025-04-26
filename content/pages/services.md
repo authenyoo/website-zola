@@ -16,9 +16,9 @@ List of services that I host on my little VPS.
 
 IP is mc.authenyo.xyz, 1.21.4 currently. Running using [Paper](https://papermc.io). Cracked accounts allowed because I love poor people.
 
-- [Iceshrimp.NET](https://iceshrimp.authenyo.xyz) 🔒
+- [Akkoma](https://akko.uglyretardedfaggots.org) 🔒
 
-Beta microblogging software using ActivityPub.
+Microblogging software using ActivityPub.
 
 - [ActivityPub relay](https://relay.authenyo.xyz)
 
@@ -34,7 +34,3 @@ Lightweight privacy-focused metasearch engine that doesn't suck.
 Instant messaging hosted using Snikket. 95% compliant.
 
 <a href='https://compliance.conversations.im/server/xmpp.authenyo.xyz'><img src='https://compliance.conversations.im/badge/xmpp.authenyo.xyz'></a>
-
-- [Irischan](https://chan.authenyo.xyz)
-
-My little imageboard using vichan for whatever you want to talk about. Second version of it because the first one died.
