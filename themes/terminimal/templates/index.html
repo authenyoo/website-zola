@@ -48,7 +48,6 @@
     new fairyDustCursor();
   </script>
 <body onload="setInterval(step,100)" class="">
-<div class="container">
     {% block header %}
     <header class="header">
         <div class="header__inner">
@@ -76,6 +75,8 @@
         {% endblock header_menu %}
     </header>
     {% endblock header %}
+<div class="container">
+
 
     <div class="content">
         {% block content %}
