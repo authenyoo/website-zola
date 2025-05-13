@@ -13,13 +13,13 @@
 }
 
 .header {
-  display: flex; // changed from column to row
+  display: flex;
   flex-direction: row; 
   align-items: center;
   justify-content: space-between;
   position: relative;
   border-bottom: dotted var(--accent);
-  white-space: nowrap;
+  white-space: normal;
 
   &__inner {
     display: flex;
@@ -50,7 +50,7 @@
 
     &__inner {
       display: flex;
-      flex-wrap: nowrap;
+      flex-wrap: wrap;
       list-style: none;
       padding: 20px;
       margin: 0;
@@ -63,6 +63,7 @@
 
         &:not(:last-of-type) {
           margin-right: 20px;
+          margin-bottom: 5px;
         }
       }
     }
@@ -96,5 +97,17 @@
         }
       }
     }
+  }
+}
+
+header a {
+  display: inline-block;
+  margin: 5px;
+  word-wrap: break-word;
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
   }
 }
