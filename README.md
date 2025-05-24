@@ -3,7 +3,7 @@
 
 rewrite of my site using [zola](https://www.getzola.org) and the [terminimal](https://github.com/pawroman/zola-theme-terminimal) theme. a little generic right now but with years of changes it will be good
 
-# HOW DO I  FUCKING USE THIS SHIT/CONTRIBUITING
+# HOW DO I  FUCKING USE THIS SHIT/CONTRIBUTING
 this is currently hosted on https://authenyo.xyz (clearnet) and http://authen7lfz4b3bb7dlt57vphk47tz7vpkz2o6htjg6gy734zjxfobsqd.onion (tor) but you can also 
 
 ## INSTALL ZOLA
