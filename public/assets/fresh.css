@@ -1,0 +1,88 @@
+#sharkey_app .mk-app {
+    .main .contents:has([class^="pages-welcome-timeline-root-"]) {
+        /* multiple elements i'd prefer hidden, as it looks cleaner with this styling
+         * shape1 and shape2 refer to the weird shape things on the left
+         * pages-welcome-timeline-root refers to the scrolling and very buggy timeline on the right */
+        .shape1, .shape2, [class^="pages-welcome-timeline-root-"] {
+            display: none;
+        }
+    
+        /* re-centers the background due to shape1/2 being removed
+         * as well as also replacing it with one that allows us to animate it with a pattern */
+        [class^="MkFeaturedPhotos-root-"] {
+            top: 0 !important;
+            left: 0 !important;
+            width: 100% !important;
+            height: 100% !important;
+        }
+    
+        /* the main instance info page thing */
+        .contents {
+            margin-left: auto !important;
+            margin-right: auto !important;
+            padding: 130px 0; /* increased padding to give comfortable space under federation bar */
+    
+            /* larger width to make things more comfortable and to prevent issues with the extra padding as added below */
+            width: min(500px,100% - 32px);
+            transition: width .2s;
+    
+            /* margins around the instance info to make the blurred background (as applied here) behind it some room */
+            [class^="MkVisitorDashboard-root-"] {
+                padding: 1.5rem;
+                background: var(--MI_THEME-acrylicPanel);
+                -webkit-backdrop-filter: var(--MI-blur, blur(15px));
+                backdrop-filter: var(--MI-blur, blur(15px));
+                border-radius: var(--MI-radius-ellipse);
+                transition: padding .2s;
+            }
+        }
+    
+        /* federation bar, which we place at the top of the screen instead */
+        .federation {
+            bottom: unset !important;
+            top: 16px !important;
+            z-index: 50 !important;
+        }
+    
+        /* expand the timeline widget view - modify to how you see fit */
+        [class^="MkVisitorDashboard-tl-"] {
+            [class^="MkVisitorDashboard-tlBody-"] {
+                height: 600px !important;
+            }
+        }
+    }
+    
+    /* contents on the sidebar, usually only visible when viewing content directly while logged out */
+    .side:has(.dashboard) {
+        /* use the banner in the sidebar as a full picture, leaving behind the gradient on the bottom for a nice effect
+         * for something nicer, you may try messing with `opacity` in here as well */
+        .banner {
+            height: 100%;
+            background-repeat: repeat;
+            background-size: auto;
+            aspect-ratio: unset !important;
+        }
+    
+        .dashboard {
+            [class^="MkVisitorDashboard-root-"] {
+                /* repeating our edits above */
+                [class^="MkVisitorDashboard-tl-"] [class^="MkVisitorDashboard-tlBody-"] {
+                    height: 600px !important;
+                }
+            }
+        }
+    }
+}
+    
+/* shrinks down the margins for blur on instance info if display is small enough */
+@media screen and (max-width: 515px) {
+    .main .contents {
+        .contents {
+            /* margins around the instance info stuff to fit the background */
+            [class^="MkVisitorDashboard-root-"] {
+                padding: .5rem !important;
+                transition: padding .2s;
+            }
+        }
+    }
+}
